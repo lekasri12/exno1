@@ -177,6 +177,7 @@ import seaborn as sns
 data=[1,12,15,18,21,24,27,30,33,36,39,42,45,48,51,54,57,60,63,66,69,72,75,78,81,84,87,90,93,96,99,158]
 df=pd.DataFrame(data)
 ```
+```
 # USE BOXPLOT FUNCTION HERE TO DETECT OUTLIER
 sns.boxplot(df)
 ```
